@@ -4,4 +4,3 @@ applications:
   host: simple-website-20200624115321703
   name: simple-website-20200624115321703
   memory: 64M
-  stack: cflinuxfs2
